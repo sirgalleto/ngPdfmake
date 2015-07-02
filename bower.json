@@ -1,0 +1,31 @@
+{
+  "name": "ng-pdfmake",
+  "version": "0.1.0",
+  "homepage": "https://github.com/svzosorio/ngPdfmake",
+  "authors": [
+    "Sebastián Osorio <svzosorio@boolinc.co>"
+  ],
+  "description": "A reference to pdfmake for angular.",
+  "main": "ng-pdfmake.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "ng-pdfmake",
+    "angular",
+    "pdfmake"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pdfmake": "~0.1.18",
+    "angular": "~1.4.1"
+  }
+}
