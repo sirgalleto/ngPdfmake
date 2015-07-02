@@ -1,6 +1,6 @@
 (function(){
     angular
-        .module('ng-pdfmake', []);
+        .module('ng-pdfmake', [])
         .factory('pdfMake', pdfMake);
 
     function pdfMake($window){
