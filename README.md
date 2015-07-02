@@ -1,4 +1,4 @@
-# ngUnderscore
+# ng-pdfmake
 A sexy reference to pdfmake for angular.
 
 # Installation
